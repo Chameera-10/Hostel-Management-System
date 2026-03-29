@@ -1,4 +1,6 @@
 # Hostel Management System – Faculty of Technology
+## 3rd Year Project-Rajarata University of Sri Lanka
+### Faculty of Technology
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript&logoColor=white)
