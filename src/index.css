@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+html { scroll-behavior: smooth; }
+
+/* :root {
+  --c-brand-50:#EFF6FF;
+  --c-brand-100:#DBEAFE;
+  --c-brand-200:#BFDBFE;
+  --c-brand-600:#3B82F6;
+  --c-brand-700:#1D4ED8;
+
+  --c-text:#0F172A;
+  --c-subtext:#64748B;
+  --c-danger-text:#B42318;
+}
+
+.form-input {
+  @apply w-full border border-[var(--c-brand-200)] rounded-md p-2 text-[13px];
+}
+
+.btn-brand {
+  @apply bg-[var(--c-brand-600)] hover:bg-[var(--c-brand-700)] text-white py-2 rounded-md text-[13px] font-medium;
+}
+
+.shadow-elev-1 {
+  box-shadow:0 6px 18px rgba(0,0,0,.06);
+} */
+/* put in index.css or global.css */
+/* select option.glass-option {
+  background: rgba(255,255,255,0.25) !important;
+  backdrop-filter: blur(10px);
+  color: #000;
+}
+select option.glass-option:hover {
+  background: rgba(20,101,77,0.3) !important;
+  color: white; */
+/* } */
